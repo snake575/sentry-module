@@ -1,3 +1,12 @@
+### [5.0.4](https://github.com/nuxt-community/sentry-module/compare/v5.0.3...v5.0.4) (2021-04-08)
+
+
+### Bug Fixes
+
+* don't use default @sentry/cli import if undefined ([d64249b](https://github.com/nuxt-community/sentry-module/commit/d64249bb7822c797c76b9f7ad2365dd1401d77bd))
+* remove default from @sentry/cli import ([92fdfc9](https://github.com/nuxt-community/sentry-module/commit/92fdfc90d97c07f68f2527079803399c96458b1f))
+* **docs:** fixes typography & content styling ([#288](https://github.com/nuxt-community/sentry-module/issues/288)) ([744bafb](https://github.com/nuxt-community/sentry-module/commit/744bafbeb55741ffeef93c6c62f2d73ef4e93037))
+
 ### [5.0.3](https://github.com/nuxt-community/sentry-module/compare/v5.0.2...v5.0.3) (2021-03-18)
 
 
